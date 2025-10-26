@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chambamax.com/sitemap.xml
